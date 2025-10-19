@@ -4,7 +4,7 @@ The following link brings you to the Vectorworks Resource Style Guide main page,
 We have provided a basic guide for all products, plus entertainment-specific guides for creating lighting devices, speakers, bumpers, and ConnectCAD content.
 Over time, more content development guides will be added.
 
-* [Vectorworks Resource Style Guide](https://vectorworks.atlassian.net/wiki/x/AQAaJAE)
+* [Vectorworks Resource Style Guide](https://vectorworks.atlassian.net/wiki/external/ZTRjMzIwOTA3ODEwNDdjOGI3OTZiYWE3ZTBjNjlhM2U)
 
 
 ## Entertainment Content Templates and Examples
